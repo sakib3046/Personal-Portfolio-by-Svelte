@@ -1,0 +1,1 @@
+<button class="transition ease-in-out  bg-orange h-min px-3 py-1 rounded-[10px] font-bold text-center text-white  hover:-translate-y-0.5 hover:scale-105 hover:bg-deep-orange duration-500 hover:drop-shadow-xl">Contact Me</button>
