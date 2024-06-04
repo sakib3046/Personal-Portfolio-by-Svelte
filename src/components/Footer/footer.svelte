@@ -22,7 +22,7 @@
           <input type="text" class="rounded-xl bg-200 focus:bg-50" />
           <button
             class="bg-50 font-bold rounded-lg mx-2 px-2 hover:scale-105 transition duration-300 ease-in-out"
-            >Get In Touch</button
+            >Hello</button
           >
         </div>
       </div>
