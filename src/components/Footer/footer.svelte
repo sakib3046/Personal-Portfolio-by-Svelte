@@ -2,7 +2,7 @@
   <div
     class="z-50 top-0 left-0 my-4 flex flex-row justify-between w-full bg-gradient-to-r from-900 via-700 to-900 px-6 py-3 shadow-xl shadow-950/10 rounded-lg"
   >
-    <div class="flex flex-col justify-start md:flex-row">
+    <div class="flex flex-col justify-start md:flex-row m-auto">
       <div class=" flex flex-col p-4">
         <h1 class="flex flex-col">
           <span class="footerText text-4xl">Thank You</span><span
@@ -17,15 +17,19 @@
         <a href="" class="footerText">Blog</a>
         <a href="" class="footerText">Terms & Condition</a>
       </div>
-      <div class="flex flex-col p-4">
-        <div class="flex flex-row">
-          <input type="text" class="rounded-xl bg-200 focus:bg-50" />
-          <button
-            class="bg-50 font-bold rounded-lg mx-2 px-2 hover:scale-105 transition duration-300 ease-in-out"
-            >Hello</button
-          >
+      <div class="flex flex-row justify-cente">
+        <div class="flex flex-col p-4">
+          <div class="flex flex-row">
+            <input type="text" class="rounded-xl bg-200 focus:bg-50" />
+            <button
+              class="bg-50 font-bold rounded-lg mx-2 px-2 hover:scale-105 transition duration-300 ease-in-out"
+              >Get In Touch</button
+            >
+          </div>
+          <div class="mt-8 text-50">Copyright ©2024. Developed by MD SAKIB HASAN</div>
         </div>
       </div>
+      
     </div>
   </div>
 </div>

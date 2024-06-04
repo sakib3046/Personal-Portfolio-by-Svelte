@@ -4,7 +4,7 @@
 
 </script>
 
-<div class=" m-4 bg-white/50 backdrop-blur-sm shadow-xl rounded-lg flex flex-col justify-center">
+<div class=" m-4 bg-white/50 backdrop-blur-sm shadow-xl rounded-lg flex flex-col justify-center hover:bg-100 duration-300 hover:scale-105">
     <!-- <div class="h-[150px] w-[150px] bg-red-700 m-auto rounded-full">
         
     </div> -->
