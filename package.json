@@ -10,6 +10,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
 	},
 	"devDependencies": {
+		"@portabletext/svelte": "^2.1.11",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/adapter-vercel": "^5.3.1",
 		"@sveltejs/kit": "^2.0.0",
@@ -26,7 +27,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@portabletext/svelte": "^2.1.11",
 		"@sanity/client": "^6.15.13",
 		"@sanity/image-url": "^1.0.2",
 		"groq": "^3.37.2"

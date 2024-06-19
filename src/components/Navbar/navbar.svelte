@@ -8,9 +8,9 @@
       ? "bg-white/90 p-4 rounded-2xl backdrop-blur-sm shadow-xl mt-2"
       : "";
   let navOptions = [
-    { name: "Home", link: "" },
-    { name: "About", link: "#about" },
-    { name: "Projects", link: "#projects" },
+    { name: "Home", link: "/" },
+    { name: "About", link: "/#about" },
+    { name: "Projects", link: "/projects" },
     { name: "Thoughts", link: "" },
   ];
 </script>

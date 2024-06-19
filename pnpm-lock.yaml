@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@portabletext/svelte':
-        specifier: ^2.1.11
-        version: 2.1.11(svelte@4.2.14)
       '@sanity/client':
         specifier: ^6.15.13
         version: 6.15.13
@@ -21,6 +18,9 @@ importers:
         specifier: ^3.37.2
         version: 3.37.2
     devDependencies:
+      '@portabletext/svelte':
+        specifier: ^2.1.11
+        version: 2.1.11(svelte@4.2.14)
       '@sveltejs/adapter-auto':
         specifier: ^3.0.0
         version: 3.2.0(@sveltejs/kit@2.5.5(@sveltejs/vite-plugin-svelte@3.1.0(svelte@4.2.14)(vite@5.2.8))(svelte@4.2.14)(vite@5.2.8))
