@@ -2,6 +2,6 @@
     export let portableText;
     console.log(portableText)
 </script>
-<li class="bg-500 text-5xl ">
-    <slot/>
-</li>
+<ul style="list-style-type:circle;"  >
+    <li class="ml-6"><slot/></li>
+</ul>
