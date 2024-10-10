@@ -1,38 +1,26 @@
-# create-svelte
+# Responsive Portfolio Website By sakib3046
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Tech Stuck:
+- CMS: Sanity
+- Design: Tailwind & Core CSS
+- Framework: Sveltekit
+- Language: TypeScript
 
-## Creating a project
+## About
+I have developed the portfolio website during my learning periods of Svelte and Sanity. It's a one page website with minimal look. It's Totally Responsive across multiple Devices. Such as- Android, ios, Windows, Linux etc. with deferent screen size. 
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Screenshots
+![demo1](./src/Asstes/1.png)
+![demo2](./src/Asstes/2.png)
+![demo3](./src/Asstes/3.png)
+![demo4](./src/Asstes/4.png)
+![demo5](./src/Asstes/5.png)
+![demo6](./src/Asstes/6.png)
+![demo7](./src/Asstes/7.png)
+![demo8](./src/Asstes/8.png)
+![demo9](./src/Asstes/9.png)
+![demo10](./src/Asstes/10.png)
+![demo11](./src/Asstes/11.png)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### Thank You so much
