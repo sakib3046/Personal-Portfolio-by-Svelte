@@ -1,6 +1,6 @@
 # Responsive Portfolio Website By sakib3046
 
-## Tech Stuck:
+## Tech Stack:
 - CMS: Sanity
 - Design: Tailwind & Core CSS
 - Framework: Sveltekit
