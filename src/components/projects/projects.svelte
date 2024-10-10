@@ -54,4 +54,3 @@
     </Carousel>
   {/if}
   
-  <button on:click={handleNextClick}>Next</button>
